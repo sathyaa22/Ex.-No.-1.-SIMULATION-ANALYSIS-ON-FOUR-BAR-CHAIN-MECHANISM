@@ -54,9 +54,11 @@
 
 ## Output:
 
+![empd image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/140483368/87318ba7-47c9-44e8-94f9-cd933da43cd5)
 
-### Name:
-### Register Number: 
+
+### Name: SATHYAA R
+### Register Number: 212223100052
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
